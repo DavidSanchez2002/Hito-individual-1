@@ -1,0 +1,6 @@
+
+En la carpeta ExplicacionYEjecucion hay un archivo .ipynb y un archivo .py
+
+Recomendable leer documentacion en el archivo .ipynb y ejecutar el .py
+
+ya que no he sabido parar la ejecucion en el .ipynb, unicamente la he podido parar cerrandolo.
